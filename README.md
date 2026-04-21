@@ -73,11 +73,11 @@ The results show that **data-driven prioritization significantly improves early 
 ## Context
 - Master's Thesis, TUM (2026)
 - Chair of Information-Oriented Control
-- Industry collaboration (automotive domain)
+- Industry collaboration: BMW AG
 
 ---
 
-## 🔗 Related Work
+## Related Work
 For a more general study on modeling dynamical systems:
 👉 [Modeling Dynamic Systems Repository](https://github.com/marej9/Modeling_Dynamic_Systems)
 
