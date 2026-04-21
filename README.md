@@ -83,5 +83,13 @@ For a more general study on modeling dynamical systems:
 
 ---
 
-## 👤 Author
+## Author
 Aleksandar Marjanovic
+
+
+## Additional Resources
+
+- Report: [https://github.com/marej9/Dynamic-Modeling-for-Data-Driven-Test-Prioritization-in-Automotive-Validation/blob/b476aa3ab5acc349cce0d2f677f7d2d68299b16c/Masterarbeit_AM_final.pdf]  
+- Presentation: [https://github.com/marej9/Dynamic-Modeling-for-Data-Driven-Test-Prioritization-in-Automotive-Validation/blob/b476aa3ab5acc349cce0d2f677f7d2d68299b16c/Master's_thesis_presentation_notion.pdf]  
+
+---
